@@ -1,0 +1,6 @@
+Lovas Gábor,Gazdaságinformatikus,F0J560
+Gipsz Jakab,Mérnökinformatikus,XXX999
+Péter Árpád,Mechatronikai mérnök,YYY999
+Mi Bombo,Közgazdász,XYX989
+Kovács Tamás,Gazdaságinformatikus,XXY988
+Köröskényi István,Bölcsész,RUT066
